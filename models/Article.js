@@ -3,7 +3,7 @@ const Article = sequelize.define('articles', {
     slug: Sequelize.STRING,
     title: {
         type: Sequelize.STRING,
-        allowNull: false,
+
     },
     description: {
         type: Sequelize.STRING,
