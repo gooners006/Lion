@@ -1,0 +1,22 @@
+{
+    "name": "LION",
+    "version": "1.0.0",
+    "main": "app.js",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.3",
+        "express-session": "^1.15.6",
+        "pg": "^7.4.1",
+        "pg-hstore": "^2.3.2",
+        "sequelize": "^4.37.6",
+        "slug": "^0.9.1"
+    },
+    "devDependencies": {
+        "eslint": "4.19.1",
+        "eslint-config-airbnb-base": "^12.1.0",
+        "eslint-plugin-import": "^2.11.0",
+        "nodemon": "1.17.3",
+        "prettier": "1.12.1"
+    }
+}
